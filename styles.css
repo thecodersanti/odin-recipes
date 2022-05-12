@@ -20,3 +20,24 @@ h1  {
     color: red;
     background-color: rgb(238, 103, 69);
 }
+
+.row {
+    box-sizing: content-box;
+}
+
+.clm {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+}
+
+.clm img {
+    height: 300px;
+    width: 100%;
+}
+
+h1,
+h3,
+.center {
+    text-align: center;
+}
