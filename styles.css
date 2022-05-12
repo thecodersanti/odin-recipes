@@ -1,0 +1,22 @@
+html {
+    background-color: rgb(235, 117, 8);
+}
+
+h1  {
+    color: yellow;
+}
+
+.easy {
+    color: green;
+    background-color: rgb(89, 255, 47);
+}
+
+.medium {
+    color: blue;
+    background-color: rgb(47, 255, 175);
+}
+
+.hard {
+    color: red;
+    background-color: rgb(238, 103, 69);
+}
